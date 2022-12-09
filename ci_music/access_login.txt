@@ -1,0 +1,7 @@
+admin
+
+email : admin@gmail.com pass:admin123
+
+user
+1. email : user@gmail.com pass:dosen123
+2. email : kitoyu22@gmail.com pass:user12345
